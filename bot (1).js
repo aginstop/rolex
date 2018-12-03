@@ -5,8 +5,8 @@ client.on('ready', () => {
     console.log('I am ready!');
 });
 
-var prefix = "$";
-const prefix = "A";
+var prefix = "#";
+const prefix = "#";
 
 
 //Hamo
