@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 var prefix = "#";
-const prefix = "#";
+
 
 
 //Hamo
